@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures, Java and Natural Language Processing.**
 
-- 📫 How to reach me **rajatsharma3538@gmail.com**
+- 📫 How to reach me **rajatsharma3538@gmail.com** **rjtsharma3538@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Rc0DNTfbZvQYtfTPmrYOyKCnf_6zE6Cx/view?usp=sharing](https://drive.google.com/file/d/1Rc0DNTfbZvQYtfTPmrYOyKCnf_6zE6Cx/view?usp=sharing)
 
